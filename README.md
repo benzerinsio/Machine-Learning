@@ -8,7 +8,7 @@ Todos os dados são usados exclusivamente para fins de estudo, respeitando boas 
 
 ## Projetos
 
-- **[Classificação de Espécies Iris](https://github.com/benzerinsio/FloralSpecies-EDA):** Projeto de Machine Learning supervisionado no dataset Iris, testando modelos como SVM, KNN, Decision Trees e Random Forest pra classificar espécies com base em características florais, alcançando até 100% de acurácia.  
+- **[Classificação de Espécies Iris](https://github.com/benzerinsio/FloralSpecies-ML):** Projeto de Machine Learning supervisionado no dataset Iris, testando modelos como SVM, KNN, Decision Trees e Random Forest pra classificar espécies com base em características florais, alcançando até 100% de acurácia.  
 - *(Mais Projetos Em Breve)*  
 
 ## 🛠️ Bibliotecas Utilizadas
