@@ -9,6 +9,7 @@ Todos os dados são usados exclusivamente para fins de estudo, respeitando boas 
 ## Projetos
 
 - **[Classificação de Espécies Iris](https://github.com/benzerinsio/FloralSpecies-ML):** Projeto de Machine Learning supervisionado no dataset Iris, testando modelos como SVM, KNN, Decision Trees e Random Forest pra classificar espécies com base em características florais, alcançando até 100% de acurácia.  
+- **[Previsão de Sobrevivência no Titanic](https://github.com/benzerinsio/TitanicSurvival-ML):** Solução para a competição Titanic do Kaggle, com feature engineering avançado e otimização de SVM (C=1, gamma=0.1, kernel='rbf'), alcançando alta precisão na previsão de sobrevivência.  
 - *(Mais Projetos Em Breve)*  
 
 ## 🛠️ Bibliotecas Utilizadas
